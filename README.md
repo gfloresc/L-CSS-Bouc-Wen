@@ -5,7 +5,9 @@ This repository includes the MATLAB simulink files for the simulations results p
 
 To cite this work please use:
 
-@ARTICLE{Bouc2022,
+<pre>
+  <code>
+@article{Bouc2022,
   author={Gerardo Flores and Micky Rakotondrabe},
   journal={IEEE Control Systems Letters},
   title={Finite-time stabilization of the generalized Bouc-Wen model for piezoelectric systems}, 
@@ -15,3 +17,5 @@ To cite this work please use:
   pages={},
   doi={}
   }
+  </code>
+</pre>
