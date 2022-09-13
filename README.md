@@ -12,11 +12,11 @@ To cite this work please use:
   author={Gerardo Flores and Micky Rakotondrabe},
   journal={IEEE Control Systems Letters},
   title={Finite-time stabilization of the generalized Bouc-Wen model for piezoelectric systems}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+  year={2023},
+  volume={7},
+  number={2023},
+  pages={7--102},
+  doi={10.1109/LCSYS.2022.3187127}
   }
   </code>
 </pre>
